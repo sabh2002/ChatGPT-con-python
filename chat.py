@@ -1,6 +1,6 @@
 import openai
 
-openai.api_key = "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"
+openai.api_key = "Ingresar API KEY"#Se debe ingresar la api key de la cuenta de ChatGPT
 
 def preguntas():
     while True:
